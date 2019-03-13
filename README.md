@@ -1,5 +1,7 @@
 ボカロのシーケンスファイルとかの投棄用<br>
 <br>
+可変加工何なりご自由にどうぞ<br>
+<br>
 VOCALOID4 Editor V4.3.0<br>
 VOICE DB IA(V3),IA_ROCKS(V3),Yukari(V3),Akari(V4)<br>
 <br>
