@@ -15,3 +15,4 @@ celluloid		MI/celluloid<br>
 私の時間			MI/My_Time<br>
 私の世界			MI/My_World<br>
 桜ノ雨			MI/Sakura_Rain<br>
+Sing and Smile	MI/Sing_and_Smile<br>
